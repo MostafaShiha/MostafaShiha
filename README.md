@@ -1,4 +1,4 @@
-👋 Hi, I’m Mostafa Shiha (@MostafaShiha)**  
+👋 Hi, I’m Mostafa Shiha (@MostafaShiha) 
 - I’m interested in: Data Science, AI, and Startup Innovation  
 - Founder: CevonAI, an AI startup
 - I’m looking to collaborate on: AI, Data Science, and innovative tech projects  
